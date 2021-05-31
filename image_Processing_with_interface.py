@@ -126,7 +126,7 @@ class MyWindow(QMainWindow):
 
 
     def show_text(self):
-        tesseract_exe = r"D:\pycharm_projects\tesseract\tesseract.exe" #path of tessract.exe
+        tesseract_exe = r"tesseract.exe" #path of tessract.exe
         z = final[-1]
         image_path = z
         input_image = Image.open(image_path)
@@ -148,3 +148,5 @@ def window():
 
 
 window()
+
+oi=input()
