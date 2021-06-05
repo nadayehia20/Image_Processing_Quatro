@@ -25,7 +25,7 @@ and the output is:
 
 ![](screenshots/english2out.png)
 
-Here is a video explaining out projectin details and how it can recognize and extract test from images and save it to a text file.
+Here is a video explaining out project in details and how it can recognize and extract test from images and save it to a textfile.
 https://www.youtube.com/watch?v=8wOUIgJDCcE
 
 
