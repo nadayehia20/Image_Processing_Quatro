@@ -25,8 +25,7 @@ and the output is:
 
 ![](screenshots/english2out.png)
 
-Here is a video explaining our project in details and how it can recognize and extract text from images and save it to a textfile.
-https://www.youtube.com/watch?v=8wOUIgJDCcE
+Here is a video explaining our project in details and how it can recognize and extract text from images and save it to a textfile:https://www.youtube.com/watch?v=8wOUIgJDCcE
 
 
 
